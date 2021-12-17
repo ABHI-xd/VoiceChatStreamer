@@ -5,4 +5,4 @@ pytube
 youtube-search-python
 asyncio
 pytgcalls==3.0.0.dev19
-https://github.com/subinps/pyrogram@session
+git+https://github.com/subinps/pyrogram@session
